@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code&display=swap");
+* {
+  font-size: 1.1em;
+}
+
+.all_site {
+  padding: 1rem;
+}
+.all_site #cdn code {
+  font-family: "Fira Code", monospace;
+  display: inline-block;
+  border: 0.25rem solid #0077ff;
+  background: black;
+  color: #ffd2d2;
+}
+.all_site a {
+  display: inline-block;
+  text-decoration: none;
+  background: #53a3ff;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}/*# sourceMappingURL=installer.css.map */
