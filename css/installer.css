@@ -22,4 +22,18 @@
   padding: 10px;
   margin: 10px;
   border-radius: 10px;
+}
+.all_site button {
+  display: inline;
+  background: #00c90d;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  border: none;
+}
+.all_site button svg {
+  width: 1.5rem;
+  height: 1.5rem;
+  margin: 0.3rem;
 }/*# sourceMappingURL=installer.css.map */

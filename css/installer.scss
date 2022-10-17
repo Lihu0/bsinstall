@@ -27,4 +27,18 @@ $s: 10px;
     margin: $s;
     border-radius: 10px;
   }
+  button {
+    display: inline;
+    background: #00c90d;
+    color: white;
+    padding: $s;
+    margin: $s;
+    border-radius: 10px;
+    border: none;
+    svg {
+      width : 1.5rem;
+      height: 1.5rem;
+      margin: .3rem;
+    }
+  }
 }
